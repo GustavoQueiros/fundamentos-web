@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.mclovin{
+    width:200px;
+    height:200px;
+    padding: 0;
+    margin: 15px;
+}
+
